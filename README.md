@@ -21,14 +21,14 @@ Analyze the distribution of credit scores among churned and retained customers.
 
 ### Visualization:
 Utilize visualizations such as bar plots, pie charts etc., to represent:
-#### 1.Churn status by gender: Compare the count of churned and retained customers by gender using a bar plot or pie chart.
-#### 2.Total customer count: Display the total count of customers using a bar plot or pie chart.
-#### 3.Total churn rate: Calculate and visualize the overall churn rate as a percentage.
+  1.Churn status by gender: Compare the count of churned and retained customers by gender using a bar plot or pie chart.
+  2.Total customer count: Display the total count of customers using a bar plot or pie chart.
+   3.Total churn rate: Calculate and visualize the overall churn rate as a percentage.
 #### 4.Churn rate with credit score: Group customers by credit score ranges and visualize churn rates within each group using a bar plot or line chart.
 
 ## Expected Outcome:
 
-#### 1.Clear understanding of churn status by gender and overall customer count.
-#### 2.Insightful visualizations depicting churn rates and their correlation with credit scores.
-#### 3.Identification of key factors contributing to churn.
+  1.Clear understanding of churn status by gender and overall customer count.
+  2.Insightful visualizations depicting churn rates and their correlation with credit scores.
+  3.Identification of key factors contributing to churn.
 
